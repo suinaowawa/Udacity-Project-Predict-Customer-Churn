@@ -1,0 +1,7 @@
+root - INFO - Testing import_data: SUCCESS
+numexpr.utils - INFO - Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Testing train_models: SUCCESS
